@@ -2,7 +2,7 @@
   "hash": "980429e3239c0a914ba537cc12435dab",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: \"Welcome To My Blog\"\nauthor: \"Tristan O'Malley\"\ndate: \"2025-03-03\"\ncategories: [news]\n---\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n![](thumbnail.jpg)\n\nSince this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.\n\n::: {#eb37037a .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\na = np.arange(10)\na\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\narray([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])\n```\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: \"Welcome To My Blog\"\nauthor: \"Tristan O'Malley\"\ndate: \"2025-03-03\"\ncategories: [news]\n---\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n![](thumbnail.jpg)\n\nSince this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.\n\n::: {#074bcae5 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\na = np.arange(10)\na\n```\n\n::: {.cell-output .cell-output-display execution_count=2}\n```\narray([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])\n```\n:::\n:::\n\n\n",
     "supporting": [
       "index_files"
     ],
