@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "yanghyunjun-blog",
     "section": "",
-    "text": "팔머펭귄 데이터 분석\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 6, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "팔머펭귄 데이터 분석\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n나의 첫 블로그 포스트\n\n\n\n\n\n\npyhthon\n\n\npandas\n\n\nnumpy\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\nJunKane\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 6, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -82,5 +82,19 @@
     "title": "팔머펭귄 데이터 분석",
     "section": "결론",
     "text": "결론\n\n서식지 분석\nAdelie는 Biscoe, Dream, Torgersen 3 종류의 섬에 서식하지만, Gentoo는 Biscoe, Chinstrap는 Dream 에서만 서식한다.\n\n\n데이터 종류별 분석\n\n부리 길이는 Chinstrap이 가장 길고, Gentoo가 가장 짧다.\n부리 깊이는 Adelie이 가장 길고, Gentoo가 가장 짧다.\n날개 길이는 Chinstrap이 가장 길고, Adelie가 가장 짧다.\n무게는 Chinstrap이 가장 길고, Gentoo가 가장 짧다."
+  },
+  {
+    "objectID": "posts/my_first_post/myfirst_post.html",
+    "href": "posts/my_first_post/myfirst_post.html",
+    "title": "나의 첫 블로그 포스트",
+    "section": "",
+    "text": "넘파이 패키지를 불러옵시다!\n\nimport numpy as np\na = np.arange(10)\na\n\narray([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])\n\n\n\n\n\n판다스 패키지를 불러옵시다!\n\nimport pandas as pd"
+  },
+  {
+    "objectID": "posts/my_first_post/myfirst_post.html#파이썬-데이터-분석",
+    "href": "posts/my_first_post/myfirst_post.html#파이썬-데이터-분석",
+    "title": "나의 첫 블로그 포스트",
+    "section": "",
+    "text": "넘파이 패키지를 불러옵시다!\n\nimport numpy as np\na = np.arange(10)\na\n\narray([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])\n\n\n\n\n\n판다스 패키지를 불러옵시다!\n\nimport pandas as pd"
   }
 ]

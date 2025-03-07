@@ -1,0 +1,12 @@
+{
+  "hash": "f281cc42ba34292a9f3185418b170faa",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"나의 첫 블로그 포스트\"\nauthor: \"JunKane\"\ndate: \"2025-03-07\"\ncategories: [pyhthon, pandas, numpy]\nimage: \" image.jpg\"\n---\n\n\n## 파이썬 데이터 분석\n\n\n### 넘파이\n넘파이 패키지를 불러옵시다!\n\n::: {#b34c89af .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\na = np.arange(10)\na\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\narray([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])\n```\n:::\n:::\n\n\n### 판다스\n판다스 패키지를 불러옵시다!\n\n::: {#27688b1c .cell execution_count=2}\n``` {.python .cell-code}\nimport pandas as pd\n```\n:::\n\n\n",
+    "supporting": [
+      "myfirst_post_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
