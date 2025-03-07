@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "yanghyunjun"
 image: profile.jpg
 about:
   template: jolla
@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+양현준 블로그 입니다.
